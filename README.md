@@ -2,7 +2,7 @@
 
 Welcome! I'm Rashaad, a Duke University Master in Interdisciplinary Data Science student.
 
-## 2022 Race Calendar
+### 2022 Race Calendar
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man:
 - September 10: [White Lake Fall Internatiaonal Triathlon](https://runsignup.com/Race/NC/WhiteLake/WLFallInternational) :swimming_man: :bicyclist: :running_man:
