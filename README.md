@@ -6,6 +6,8 @@ Welcome! I'm Rashaad, a Duke University Master in Interdisciplinary Data Science
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man: - [5:37 mile](https://runsignup.com/Race/Results/116189#resultSetId-331659;perpage:100)
 
+- November 24: [Raleigh Turkey Trot](https://ridgewoodturkeytrot.itsyourrace.com/event.aspx?id=4847) 🏃‍♂️ - [36:50](https://ridgewoodturkeytrot.itsyourrace.com/Results.aspx?id=4847&y=&eid=&srch=Rashaad%20&g=&amin=&amax=)
+
 - October 15: [Ironman 70.3 NC](https://www.ironman.com/im703-north-carolina?_ga=2.262261516.1463858545.1659123373-1026453001.1656093606) :swimming_man: :bicyclist: :running_man: - [5:57:32](https://www.ironman.com/im703-north-carolina-results)
 
 <!--- November 6: [City of Oaks Marathon](https://capstoneraces.com/city-of-oaks-marathon/) :running_man: -->
