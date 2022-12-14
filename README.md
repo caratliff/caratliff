@@ -10,13 +10,13 @@ Welcome! I'm Rashaad, a Duke University Master in Interdisciplinary Data Science
 
 - November 24: [Raleigh Turkey Trot](https://ridgewoodturkeytrot.itsyourrace.com/event.aspx?id=4847) 🏃‍♂️ - [36:50](https://ridgewoodturkeytrot.itsyourrace.com/Results.aspx?id=4847&y=&eid=&srch=Rashaad%20&g=&amin=&amax=)
 
-<!--- November 6: [City of Oaks Marathon](https://capstoneraces.com/city-of-oaks-marathon/) :running_man: -->
-
-- May 21: [Ironman Tulsa](https://www.ironman.com/im-tulsa?_ga=2.227648670.2089883783.1660093427-1319460127.1659293292) :swimming_man: :bicyclist: :running_man: - 
-
+- March 19: [Tobacco Road Marathon and Half Marathon](https://tobaccoroadmarathon.com/details) 🏃‍♂️ - 
 <!--- Gran Fondo Florida:  March 19, 2023-->
 
 <!--- Tour of Georgia Grand Fondo:  April 16, 2023-->
+- April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/city-of-oaks-marathon/](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - 
+
+- May 21: [Ironman Tulsa](https://www.ironman.com/im-tulsa?_ga=2.227648670.2089883783.1660093427-1319460127.1659293292) :swimming_man: :bicyclist: :running_man: - 
 
 <!--- Gran Fondo Asheville: July 16, 2023-->
 
